@@ -1,0 +1,28 @@
+# NAME: Custom EUProxy
+#
+# N26 Bank Rule List 
+DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,n26.de
+DOMAIN-SUFFIX,n26.eu
+DOMAIN-SUFFIX,n26.com.br
+DOMAIN-SUFFIX,n26.co.uk
+DOMAIN-SUFFIX,n26bank.com
+DOMAIN-SUFFIX,n26-prod.net
+DOMAIN-SUFFIX,tech26.de
+DOMAIN-SUFFIX,tech26.eu
+DOMAIN-SUFFIX,n26static.com
+DOMAIN-SUFFIX,n26-assets.com
+DOMAIN-SUFFIX,n26-api.com
+# iFAST Global Bank Rule List
+DOMAIN-SUFFIX,ifastfinancial.com
+DOMAIN-SUFFIX,ifastnetwork.com
+DOMAIN-SUFFIX,fundsupermart.com
+DOMAIN-SUFFIX,ifastglobal.com
+DOMAIN-SUFFIX,ifastcorp.com
+DOMAIN-SUFFIX,ifastps.com
+DOMAIN-SUFFIX,ifastbank.com
+DOMAIN-SUFFIX,ifast-global.com
+DOMAIN-SUFFIX,ifastglobalbank.com
+DOMAIN-SUFFIX,ifastglobalmarkets.com
+DOMAIN-SUFFIX,fsmone.com
+DOMAIN-SUFFIX,bondsupermart.com
