@@ -86,5 +86,33 @@ DOMAIN-SUFFIX,binancesupportdesk.com
 DOMAIN-SUFFIX,binanceusdtrewards.com
 DOMAIN-SUFFIX,bscscan.com
 DOMAIN-SUFFIX,bscscan.io
-# DEX
+# Decentralized Exchanges (DEX)
 DOMAIN-SUFFIX,ff.io
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,sushi.com
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,pancakeswap.com
+DOMAIN-SUFFIX,curve.fi
+DOMAIN-SUFFIX,balancer.fi
+DOMAIN-SUFFIX,1inch.io
+DOMAIN-SUFFIX,1inch.exchange
+DOMAIN-SUFFIX,dydx.exchange
+DOMAIN-SUFFIX,justswap.io
+DOMAIN-SUFFIX,mdex.com
+DOMAIN-SUFFIX,mdex.co
+DOMAIN-SUFFIX,quickswap.exchange
+DOMAIN-SUFFIX,spookyswap.finance
+DOMAIN-SUFFIX,trader.joe
+DOMAIN-SUFFIX,raydium.io
+DOMAIN-SUFFIX,serum-academy.com
+DOMAIN-SUFFIX,osmosis.zone
+DOMAIN-SUFFIX,thorswap.finance
+DOMAIN-SUFFIX,kyberswap.com
+DOMAIN-SUFFIX,dodoex.io
+DOMAIN-SUFFIX,bancor.network
+DOMAIN-SUFFIX,paraswap.io
+DOMAIN-SUFFIX,idex.io
+DOMAIN-SUFFIX,loopring.org
+DOMAIN-SUFFIX,zks.app
+DOMAIN-SUFFIX,zkswap.finance
+DOMAIN-SUFFIX,zkspace.info
