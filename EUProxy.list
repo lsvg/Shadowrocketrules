@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,n26static.com
 DOMAIN-SUFFIX,n26-assets.com
 DOMAIN-SUFFIX,n26-api.com
 # iFAST Global Bank Rule List
+DOMAIN-SUFFIX,ifastgb.com
 DOMAIN-SUFFIX,ifastfinancial.com
 DOMAIN-SUFFIX,ifastnetwork.com
 DOMAIN-SUFFIX,fundsupermart.com
