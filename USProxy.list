@@ -1,3 +1,5 @@
 # NAME: US Proxy
 DOMAIN-SUFFIX,bankofamerica.com
 DOMAIN-SUFFIX,bofa.com
+#Chase
+DOMAIN-SUFFIX,chase.com
