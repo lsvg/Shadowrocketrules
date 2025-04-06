@@ -4,3 +4,7 @@ DOMAIN-SUFFIX,bendibao.com
 DOMAIN-SUFFIX,ngarihealth.com
 DOMAIN-SUFFIX,mhealth100.com
 DOMAIN-SUFFIX,td.gov.hk
+DOMAIN-SUFFIX,zocalo.ap-southeast-1.amazonaws.com
+ws-client-service.ap-southeast-1.amazonaws.com
+ws-broker-service.ap-southeast-1.amazonaws.com
+skylight-client-ds.ap-southeast-1.amazonaws.com
