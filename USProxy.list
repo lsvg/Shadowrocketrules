@@ -1,5 +1,24 @@
 # NAME: US Proxy
+#
+#Bank of America
 DOMAIN-SUFFIX,bankofamerica.com
 DOMAIN-SUFFIX,bofa.com
 #Chase
 DOMAIN-SUFFIX,chase.com
+DOMAIN-SUFFIX,jpmorgan.com
+DOMAIN-SUFFIX,jpmorganchase.com
+DOMAIN-SUFFIX,jpmc.com
+DOMAIN-SUFFIX,chasebank.com
+DOMAIN-SUFFIX,chaseonline.com
+DOMAIN-SUFFIX,chase.io
+DOMAIN-SUFFIX,chasepayment.com
+DOMAIN-SUFFIX,chasepaymentech.com
+DOMAIN-SUFFIX,chasestatic.com
+DOMAIN-SUFFIX,chase-content.com
+DOMAIN-SUFFIX,chasecdn.com
+DOMAIN-SUFFIX,chasebonus.com
+DOMAIN-SUFFIX,chaseoffers.com
+DOMAIN-SUFFIX,chasedigital.com
+DOMAIN-SUFFIX,chaseauto.com
+DOMAIN-SUFFIX,chasebusiness.com
+DOMAIN-SUFFIX,chasecareers.com
