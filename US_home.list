@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,cdn.talkatone.com
 DOMAIN-SUFFIX,talkatone.net
 DOMAIN-SUFFIX,talkatoneapp.com
 DOMAIN-SUFFIX,talkatoneads.com
+# USCIS
+DOMAIN-SUFFIX,uscis.gov
