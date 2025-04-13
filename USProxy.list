@@ -37,3 +37,5 @@ DOMAIN-SUFFIX,cdn.talkatone.com
 DOMAIN-SUFFIX,talkatone.net
 DOMAIN-SUFFIX,talkatoneapp.com
 DOMAIN-SUFFIX,talkatoneads.com
+# xfinity
+DOMAIN-SUFFIX,xfinity.com
