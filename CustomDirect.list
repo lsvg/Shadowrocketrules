@@ -26,3 +26,5 @@ IP-CIDR,183.36.0.0/16,no-resolve
 IP-CIDR,203.205.0.0/16,no-resolve
 IP-CIDR,182.254.0.0/16,no-resolve
 IP-CIDR,101.226.0.0/16,no-resolve
+# MPF
+DOMAIN-SUFFIX,sunlife.com.hk
