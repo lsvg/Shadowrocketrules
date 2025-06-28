@@ -33,3 +33,5 @@ DOMAIN-SUFFIX,fedex.com
 DOMAIN-SUFFIX,xfinity.com
 # Tello
 DOMAIN-SUFFIX,tello.com
+# Fidelity
+DOMAIN-SUFFIX,fidelity.com
