@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,zocalo.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,ws-client-service.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,ws-broker-service.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,skylight-client-ds.ap-southeast-1.amazonaws.com
+# AWS S3
+DOMAIN-SUFFIX,s3.amazonaws.com
 # QQ 音乐相关域名
 DOMAIN-SUFFIX,qqmusic.qq.com
 DOMAIN-SUFFIX,y.qq.com
