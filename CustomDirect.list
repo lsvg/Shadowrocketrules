@@ -32,3 +32,5 @@ IP-CIDR,101.226.0.0/16,no-resolve
 DOMAIN-SUFFIX,sunlife.com.hk
 # fengniao
 DOMAIN-SUFFIX,riskbird.com
+# Cathay Pacific
+DOMAIN-SUFFIX,cathaypacific.com
