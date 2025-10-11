@@ -46,3 +46,5 @@ DOMAIN-SUFFIX,capitalone360.com
 DOMAIN-SUFFIX,capitaloneapi.com
 DOMAIN-SUFFIX,capitalonecdn.com
 DOMAIN-SUFFIX,c1static.com
+# Gemini Exchange
+DOMAIN-SUFFIX,gemini.com
