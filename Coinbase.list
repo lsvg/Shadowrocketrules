@@ -37,3 +37,20 @@ DOMAIN-SUFFIX,coinbaseinternational.com
 DOMAIN-SUFFIX,coinbaseventures.com
 DOMAIN-SUFFIX,coinbasestatus.com
 DOMAIN-SUFFIX,coinbase.zendesk.com
+# Kraken Exchange
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.io
+DOMAIN-SUFFIX,krakenaccess.com
+DOMAIN-SUFFIX,krakenfx.com
+DOMAIN-SUFFIX,krakenimages.com
+DOMAIN-SUFFIX,krakenapis.com
+DOMAIN-SUFFIX,krakensecure.com
+DOMAIN-SUFFIX,krakenstatic.com
+DOMAIN-SUFFIX,krakencdn.com
+DOMAIN-SUFFIX,krakenfiles.com
+DOMAIN-SUFFIX,krakenaccess.net
+DOMAIN-SUFFIX,kraken-labs.com
+DOMAIN-SUFFIX,krakenpro.com
+DOMAIN-SUFFIX,krakenspot.com
+DOMAIN-SUFFIX,krakenfutures.com
+DOMAIN-SUFFIX,payward.com
