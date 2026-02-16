@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,talkatoneapp.com
 DOMAIN-SUFFIX,talkatoneads.com
 # USCIS
 DOMAIN-SUFFIX,uscis.gov
+# Truth Social Rule Set
+DOMAIN-SUFFIX,truthsocial.com
