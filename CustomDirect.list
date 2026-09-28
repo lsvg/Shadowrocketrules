@@ -4,8 +4,6 @@ DOMAIN-SUFFIX,bendibao.com
 DOMAIN-SUFFIX,ngarihealth.com
 DOMAIN-SUFFIX,mhealth100.com
 DOMAIN-SUFFIX,td.gov.hk
-# Tesla CN
-DOMAIN-SUFFIX,tesla.cn
 # AWS WorkSpaces
 DOMAIN-SUFFIX,zocalo.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,ws-client-service.ap-southeast-1.amazonaws.com
@@ -13,21 +11,6 @@ DOMAIN-SUFFIX,ws-broker-service.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,skylight-client-ds.ap-southeast-1.amazonaws.com
 # AWS S3
 DOMAIN-SUFFIX,s3.amazonaws.com
-# QQ 音乐相关域名
-DOMAIN-SUFFIX,qqmusic.qq.com
-DOMAIN-SUFFIX,y.qq.com
-DOMAIN-SUFFIX,music.qq.com
-DOMAIN-SUFFIX,imgcache.qq.com
-DOMAIN-SUFFIX,aqqmusic.tc.qq.com
-DOMAIN-SUFFIX,streamoc.music.tc.qq.com
-DOMAIN-SUFFIX,isure.stream.qqmusic.qq.com
-DOMAIN-SUFFIX,amobile.music.tc.qq.com
-# 腾讯相关 IP 地址段（加 no-resolve）
-IP-CIDR,183.3.0.0/16,no-resolve
-IP-CIDR,183.36.0.0/16,no-resolve
-IP-CIDR,203.205.0.0/16,no-resolve
-IP-CIDR,182.254.0.0/16,no-resolve
-IP-CIDR,101.226.0.0/16,no-resolve
 # MPF
 DOMAIN-SUFFIX,sunlife.com.hk
 # fengniao
